@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Services;
+﻿namespace WebApplication2.Services;
 
 public class ConfigurationService : IConfigurationService
 {

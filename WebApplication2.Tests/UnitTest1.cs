@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.TestProject1;
+namespace WebApplication2.Tests;
 
 public class UnitTest1
 {

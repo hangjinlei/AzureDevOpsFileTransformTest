@@ -1,8 +1,9 @@
-﻿using WebApplication1.Services;
+﻿using WebApplication1.TestProject1;
+using WebApplication2.Services;
 using Xunit.Abstractions;
 using Xunit.Microsoft.DependencyInjection.Abstracts;
 
-namespace WebApplication1.TestProject1;
+namespace WebApplication2.Tests;
 
 public class ConfigurationServiceTest : TestBed<GlobalTestFixture>
 {
